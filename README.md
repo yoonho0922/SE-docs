@@ -1,6 +1,7 @@
 ## 캠핑장 예약 관리 모바일 앱 개발 프로젝트
 
 ### 2021년 2학기 [SW-Engineering](https://github.com/SMU-EB0055/SE2021_HAEA0008_3)
+### [중간 발표 영상](https://www.youtube.com/watch?v=OIHGEWO987s)
 
 #### 구성원
 
